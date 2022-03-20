@@ -1,0 +1,16 @@
+E:\Dev\C\Nomes\Nomes\bin\Debug\net5.0\Nomes.exe
+E:\Dev\C\Nomes\Nomes\bin\Debug\net5.0\Nomes.deps.json
+E:\Dev\C\Nomes\Nomes\bin\Debug\net5.0\Nomes.runtimeconfig.json
+E:\Dev\C\Nomes\Nomes\bin\Debug\net5.0\Nomes.runtimeconfig.dev.json
+E:\Dev\C\Nomes\Nomes\bin\Debug\net5.0\Nomes.dll
+E:\Dev\C\Nomes\Nomes\bin\Debug\net5.0\ref\Nomes.dll
+E:\Dev\C\Nomes\Nomes\bin\Debug\net5.0\Nomes.pdb
+E:\Dev\C\Nomes\Nomes\obj\Debug\net5.0\Nomes.csproj.AssemblyReference.cache
+E:\Dev\C\Nomes\Nomes\obj\Debug\net5.0\Nomes.GeneratedMSBuildEditorConfig.editorconfig
+E:\Dev\C\Nomes\Nomes\obj\Debug\net5.0\Nomes.AssemblyInfoInputs.cache
+E:\Dev\C\Nomes\Nomes\obj\Debug\net5.0\Nomes.AssemblyInfo.cs
+E:\Dev\C\Nomes\Nomes\obj\Debug\net5.0\Nomes.csproj.CoreCompileInputs.cache
+E:\Dev\C\Nomes\Nomes\obj\Debug\net5.0\Nomes.dll
+E:\Dev\C\Nomes\Nomes\obj\Debug\net5.0\ref\Nomes.dll
+E:\Dev\C\Nomes\Nomes\obj\Debug\net5.0\Nomes.pdb
+E:\Dev\C\Nomes\Nomes\obj\Debug\net5.0\Nomes.genruntimeconfig.cache

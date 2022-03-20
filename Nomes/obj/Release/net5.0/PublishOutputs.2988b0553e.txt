@@ -1,0 +1,5 @@
+E:\Dev\C\Nomes\Nomes\bin\Release\net5.0\publish\Nomes.exe
+E:\Dev\C\Nomes\Nomes\bin\Release\net5.0\publish\Nomes.dll
+E:\Dev\C\Nomes\Nomes\bin\Release\net5.0\publish\Nomes.deps.json
+E:\Dev\C\Nomes\Nomes\bin\Release\net5.0\publish\Nomes.runtimeconfig.json
+E:\Dev\C\Nomes\Nomes\bin\Release\net5.0\publish\Nomes.pdb
